@@ -14,13 +14,18 @@
 
 ## 🙏 致谢
 
-本项目基于原作者的开源项目进行学习和使用。感谢原作者的无私分享和贡献，为技术学习者提供了宝贵的学习资源。
+本项目 Fork 自原作者 [@onewhitethreee](https://github.com/onewhitethreee) 的开源项目：
+- **原始仓库**: [https://github.com/onewhitethreee/zhihu_tools](https://github.com/onewhitethreee/zhihu_tools)
 
-如果您是原作者并对本仓库有任何疑问或建议，请随时联系我。
+感谢原作者的无私分享和卓越贡献，为技术学习者提供了宝贵的学习资源。本仓库的所有核心功能和代码均来自原作者的辛勤工作。
+
+**本仓库仅用于个人学习和研究，所有权利归原作者所有。**
+
+如果您是原作者并对本仓库有任何疑问或建议，请随时联系我，我会立即处理。
 
 ## 项目概述
 
-ZhiHu Tools 是一个专为获取知乎盐选文章而设计的工具。自2022-2023年起，知乎平台实施了一系列网页结构变更和反爬虫机制，将盐选内容限制为仅可在移动应用中查看。本项目旨在提供一个解决这些技术障碍的有效方案。
+
 
 ## 最新更新
 
@@ -184,15 +189,31 @@ https://www.zhihu.com/market/paid_column/1702723501155422208/section/17889206081
 
 ## 贡献指南
 
-欢迎贡献。请遵循标准GitHub工作流：
-1. Fork仓库
+如果您想为此项目做出贡献，请访问原作者的仓库：
+- **原始仓库**: [https://github.com/onewhitethreee/zhihu_tools](https://github.com/onewhitethreee/zhihu_tools)
+
+请遵循标准GitHub工作流：
+1. Fork原作者的仓库
 2. 创建功能分支
-3. 提交包含清晰文档的Pull Request
+3. 提交包含清晰文档的Pull Request到原仓库
 
 ---
 
-# 如果您有特定的需求，请带上您的报价+要求发送到邮箱twaapot@gmail.com
+## 📌 版权声明
 
-# 我会在看到后进行回复
+本仓库是原作者 [@onewhitethreee](https://github.com/onewhitethreee) 项目的学习副本。
+
+- **原始项目**: [https://github.com/onewhitethreee/zhihu_tools](https://github.com/onewhitethreee/zhihu_tools)
+- **用途**: 仅供个人学习和技术研究
+- **版权**: 所有权利归原作者所有
+- **免责声明**: 本仓库维护者不对使用本工具产生的任何后果负责
+
+如需商业用途或其他需求，请联系原作者：twaapot@gmail.com
+
+---
+
+**⭐ 如果这个项目对你有帮助，请给原作者的仓库点个Star！**
+
+**原仓库地址**: [https://github.com/onewhitethreee/zhihu_tools](https://github.com/onewhitethreee/zhihu_tools)
 
 
